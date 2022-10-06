@@ -1,6 +1,6 @@
 # Qr navigation
 
-This is web application for providing building routes functionality using Navigine system
+This is web application for building routes functionality using  the Navigine system
 
 ## Usage
 
